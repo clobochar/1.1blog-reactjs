@@ -1,0 +1,17 @@
+.header-container {
+    background-image: url("../img/bridge.jpeg");
+    background-size: cover;
+    background-position: center;
+    border-bottom: 2px solid black;
+    height: 500px;
+    width: 100%;
+}
+
+.header-title {
+    padding-top: 430px;
+    padding-left: 20px;
+    margin: 0;
+    color: whitesmoke;
+    text-shadow: 2px 2px #000000;
+    font-size: 45px;
+}
